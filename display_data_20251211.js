@@ -1,7 +1,7 @@
 /* ==================================================
    Imports & Configuration
 ================================================== */
-import { BUS_DATA } from './bus_schedule_20251211.js';
+import { BUS_DATA } from './bus_schedule_front_20251217.js';
 
 const CONFIG = {
   // 気象庁 天気予報（神奈川県）
